@@ -304,10 +304,6 @@ a.active {
     padding: 100px 0;
 }
 
-.about-img-div img {
-    margin: 0 auto;
-}
-
 .about-border {
     position: absolute;
     border: 10px solid #425BB5;
